@@ -1,0 +1,10 @@
+{
+    "sections": {
+      "electronics": {"reward": 3},
+      "clothing": {"reward": 1},
+      "grocery": {"reward": 2},
+      "furniture": {"reward": 5},
+      "toys": {"reward": 4}
+    }
+  }
+  
